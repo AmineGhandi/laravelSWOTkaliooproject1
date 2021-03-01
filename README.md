@@ -1,2 +1,2 @@
-# laravelSWOTkaliooproject1
+# laravelSWOTproject1
 SWOT laravel project
