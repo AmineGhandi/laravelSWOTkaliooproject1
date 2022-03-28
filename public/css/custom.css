@@ -1,0 +1,30 @@
+.button-borderless {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    color: red;
+}
+.being-red{
+    background-color: red;
+    color: white;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+table.dataTable.no-footer {
+    border-bottom: 0px;
+    border-top:  0px;
+  }
+table.dataTable thead th,
+table.dataTable thead td {
+  border-bottom:  0px;
+  border-top:  0px;
+}
+.p-3{
+    padding: 3rem;
+}
